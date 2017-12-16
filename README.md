@@ -60,9 +60,9 @@
    Follow up to complete...
 
 ### 外星人入侵游戏开发说明（在windows系统中开发说明）
-##### 一、安装pygame
-######## 1.在安装好Python3.6.3环境后，检查pip是否安装
-##########   $python -m pip --version  能看到版本信息说明已经安装,若发现没有安装使用python get-pip.py进行安装
+#####  一、安装pygame
+######## 1.在安装好Python3.6.3环境后，检查pip是否安装########
+##########   $python -m pip --version  能看到版本信息说明已经安装,若发现没有安装使用python get-pip.py进行安装##########
 ######## 2.安装pygame模块 ##
 ##########   python -m pip install --user pygame ###
 ###### 二、开始游戏项目
