@@ -1,10 +1,10 @@
 # Alien invasion game development instructions (development instructions in Windows)
-##    Install pygame
-   1. Check whether the PIP is installed after installing the python 3.6.3 environment
-###    $python -m PIP -version can see that the version information has been installed, and if you find no installation using python get-pip.py
-   2. Install pygame module
-###    Python -m PIP install -user pygame
-##    Start the game project
+## 1.Install pygame
+      1. Check whether the PIP is installed after installing the python 3.6.3 environment
+### $python -m PIP -version can see that the version information has been installed, and if you find no installation using python get-pip.py
+      2. Install pygame module
+### Python -m PIP install -user pygame
+## 2.Start the game project
    1. Create the Pygame window and respond to user input
    2. Set the background color
    3. Create the Settings class
@@ -12,14 +12,14 @@
    5. Create Ship class
    6. Draw a spaceship on the screen
    7. Refactor the previously scattered code and use two functions to encapsulate it
-##    Three, flying a ship
+## 3. Three, flying a ship
    1. Response button
    2. Allow continuous movement
    3. Left and right movement
    4.Adjust the speed of the ship
    5. Limit the scope of the spacecraft's activities
    6. Use check_events() to refactor the previous code
-## 3. Summary:
+## Summary:
    1. Alien_indom.py is the file of the game, creating a series of objects to be used throughout the game
    2. Settings. Py contains the Settings class, which initializes the properties of the game's appearance and speed of the ship
    3. Ship. Py contains the ship class, the method update() to manage the ship's location, and the main method of the ship,                   updat_screen() on screen.
@@ -32,7 +32,6 @@
    6. Limit the number of bullets
    7. Create function updat_bullets()
    8. Create the function fire_bullet()
-   
 ## 5. Alien objects
    1. Create the first Alien and create the Alien class
    Create an Alien instance
@@ -57,7 +56,6 @@
    21. Response to alien and ship collisions
    22. An alien reaches the bottom of the screen
    23. Game over
-
 # 6. Add the scoring function
    Follow up to complete...
 
