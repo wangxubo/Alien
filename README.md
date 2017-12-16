@@ -57,6 +57,7 @@ Move the alien population down and change direction
 21. Response to alien and ship collisions
 22. An alien reaches the bottom of the screen
 23. Game over
+
 Vi. Add the scoring function
 Follow up to complete...
 
