@@ -61,7 +61,6 @@ Move the alien population down and change direction
 Vi. Add the scoring function
 Follow up to complete...
 
-
 # 外星人入侵游戏开发说明（在windows系统中开发说明）
 一、安装pygame
     1.在安装好Python3.6.3环境后，检查pip是否安装
@@ -96,7 +95,6 @@ Follow up to complete...
     6.限制子弹的数量
     7.创建函数updat_bullets()
     8.创建函数fire_bullet()
-    
 五、外星人对象
     1.创建第一个外星人，创建Alien类
     2.创建Alien实例
